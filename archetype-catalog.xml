@@ -10,5 +10,12 @@
       <description>jss</description>
       <repository>https://raw.githubusercontent.com/leosavio/repo/master/</repository>
     </archetype>
+    <archetype>
+      <groupId>us.iotfor</groupId>
+      <artifactId>iot-avro-utils</artifactId>
+      <version>1.0.0</version>
+      <description>avro-utils</description>
+      <repository>https://raw.githubusercontent.com/leosavio/repo/master/</repository>
+    </archetype>
   </archetypes>
 </archetype-catalog>
