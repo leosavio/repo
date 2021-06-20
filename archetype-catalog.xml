@@ -17,5 +17,19 @@
       <description>avro-utils</description>
       <repository>https://raw.githubusercontent.com/leosavio/repo/master/</repository>
     </archetype>
+    <archetype>
+      <groupId>br.com.iotforus.lib</groupId>
+      <artifactId>prod-iot-lib-raspswitch</artifactId>
+      <version>1.0.0</version>
+      <description>prod-iot-lib-raspswitch</description>
+      <repository>https://raw.githubusercontent.com/leosavio/repo/master/</repository>
+    </archetype>
+    <archetype>
+      <groupId>br.com.iotforus.lib</groupId>
+      <artifactId>prod-iot-lib-x86switch</artifactId>
+      <version>1.0.0</version>
+      <description>prod-iot-lib-x86switch</description>
+      <repository>https://raw.githubusercontent.com/leosavio/repo/master/</repository>
+    </archetype>
   </archetypes>
 </archetype-catalog>
